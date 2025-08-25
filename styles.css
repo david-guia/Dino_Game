@@ -16,7 +16,7 @@
     background-image: url(t-rex.png);
     background-size: auto 70px;
     position: relative;
-    top: 130px;
+    top: 143px;
 }
 .jump {
     animation: jump 0.3s linear;
